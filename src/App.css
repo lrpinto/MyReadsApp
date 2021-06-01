@@ -185,14 +185,6 @@ button:active {
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
-.book-shelf-menu-title {
-	background-color: mediumslateblue;
-}
-
-.book-shelf-menu-option {
-	background-color: #60ac5d;
-}
-
 /* book cover */
 
 .book-cover {
@@ -241,10 +233,11 @@ button:active {
 
 .dropdown li:first-child {
 	color: #000000;
+	background-color: mediumslateblue;
+	border-radius: 4px 4px 0px 0px;
 }
 
 .dropdown li:first-child:hover {
-	background: none;
 	cursor: none;
 }
 
