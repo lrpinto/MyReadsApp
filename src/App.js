@@ -36,7 +36,6 @@ const BooksApp = () => {
 					</Route>
 				</Switch>
 			</BrowserRouter>
-			,
 		</div>
 	)
 }
