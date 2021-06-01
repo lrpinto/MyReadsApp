@@ -36,7 +36,7 @@ const ShelfSelector = ({ shelf, shelves, onUpdate }) => {
 				}}
 				onMouseLeave={closeSelector}
 			>
-				<li key={'move'} value={'move'}>
+				<li className="book-shelf-menu-title" key={'move'} value={'move'}>
 					{'Move to...'}
 				</li>
 				{shelvesKeys.map((_shelf) => (
