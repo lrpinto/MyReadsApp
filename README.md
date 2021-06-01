@@ -1,11 +1,13 @@
 # MyReads Project
 
-Final assessment project for Udacity's React Fundamentals course. 
+Assessment project for Udacity's React Nanodegree program. 
 
 ## Run
 
-* install all project dependencies with `yarn install`
-* start the development server with `yarn start`
+* install all project dependencies with `npm install`
+* start the development server with `npm start`
+
+Note: Press a shelf to open it and see its books.
 
 ## Project Structure
 ```bash
