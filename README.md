@@ -2,6 +2,8 @@
 
 Assessment project for Udacity's React Nanodegree program. 
 
+![MyReads Preview](lrpinto-reactnd-myreads.gif)
+
 ## Run
 
 * install all project dependencies with `npm install`
