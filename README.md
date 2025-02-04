@@ -1,6 +1,6 @@
 # MyReads Project
 
-Assessment project for Udacity's React Nanodegree program. 
+A app to manage a list of favourite reads built with React.
 
 
 ![MyReads Preview](lrpinto-reactnd-myreads.gif)
@@ -26,7 +26,7 @@ Note: Press a shelf to open it and see its books.
     ├── App.css # Styles for the app.
     ├── App.js # This is the root of the app.
     ├── App.test.js # Used for testing. Provided with Create React App.
-    ├── BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
+    ├── BooksAPI.js # A JavaScript API to provision a mock backend. Instructions for the methods are below.
     ├── icons # Helpful images.
     │   ├── add.svg
     │   ├── arrow-back.svg
@@ -87,5 +87,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Contributing
 
-This repository contains my solution for final assessment project for Udacity's React Fundamentals course. Therefore, it is unlikely that I accept contributions.
+Not open to contributions.
 
